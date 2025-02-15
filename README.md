@@ -7,15 +7,11 @@ Aura-Meter est un bot Discord pour suivre et gérer l'aura des utilisateurs. Le 
 Pour installer et configurer le bot, suivez les étapes ci-dessous :
 
 1. Clonez ce dépôt sur votre machine locale.
-2. Installez les dépendances requises en utilisant la commande suivante :
-   ```
-   pip install -r requirements.txt
-   ```
-3. Créez un fichier `.env` dans le répertoire racine du projet et ajoutez votre jeton Discord :
+2. Créez un fichier `.env` dans le répertoire racine du projet et ajoutez votre jeton Discord :
    ```
    DISCORD_TOKEN=VotreJetonDiscord
    ```
-4. Remplacez `channel_id` dans `main.py` par l'ID de votre canal Discord.
+3. Remplacez `channel_id` dans `main.py` par l'ID de votre canal Discord.
 
 ## Utilisation
 Pour utiliser le bot, démarrez-le en exécutant la commande suivante :
