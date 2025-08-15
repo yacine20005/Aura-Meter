@@ -1,6 +1,6 @@
 # Aura-Meter: A Dynamic Discord Bot for Community Engagement
 
-Welcome to Aura-Meter! This isn't just another Discord bot; it's a unique tool designed to bring a new level of interaction and fun to your server. Developed by a team of two passionate second-year computer science students at Gustave Eiffel University, Aura-Meter introduces a captivating "aura" system that lets your community members shine.
+Welcome to Aura-Meter! This isn't just another Discord bot; it's a unique tool designed to bring a new level of interaction and fun to your server. Aura-Meter introduces a captivating "aura" system that lets your community members shine.
 
 ## ✨ What is Aura-Meter?
 
@@ -70,4 +70,4 @@ Interact with the bot using these simple slash commands:
 
 ---
 
-*This project was created for fun by a group of friends one evening.*
+*This project was originally created for fun one night.*
